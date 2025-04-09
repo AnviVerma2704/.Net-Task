@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7kucgTD8nOdmCj359rBKKyshQ6WzJqW0JGAQNssCzug=",
+  "Source": "TaskDotNet",
+  "BasePath": "_content/TaskDotNet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
