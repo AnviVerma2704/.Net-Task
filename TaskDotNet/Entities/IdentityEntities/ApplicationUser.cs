@@ -5,6 +5,5 @@ namespace TaskDotNet.Entities.IdentityEntities
 {
     public class ApplicationUser : IdentityUser<Guid>
     {
-        
     }
 }
