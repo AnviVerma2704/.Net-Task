@@ -3,12 +3,62 @@
   "WorkspaceRootPath": "C:\\Users\\anvi.verma\\Desktop\\TaskDotNet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B37BA32-52BB-40F9-BDFA-5170D028868A}|TaskDotNet\\TaskDotNet.csproj|c:\\users\\anvi.verma\\desktop\\taskdotnet\\taskdotnet\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B37BA32-52BB-40F9-BDFA-5170D028868A}|TaskDotNet\\TaskDotNet.csproj|solutionrelative:taskdotnet\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B37BA32-52BB-40F9-BDFA-5170D028868A}|TaskDotNet\\TaskDotNet.csproj|c:\\users\\anvi.verma\\desktop\\taskdotnet\\taskdotnet\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B37BA32-52BB-40F9-BDFA-5170D028868A}|TaskDotNet\\TaskDotNet.csproj|solutionrelative:taskdotnet\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B37BA32-52BB-40F9-BDFA-5170D028868A}|TaskDotNet\\TaskDotNet.csproj|c:\\users\\anvi.verma\\desktop\\taskdotnet\\taskdotnet\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B37BA32-52BB-40F9-BDFA-5170D028868A}|TaskDotNet\\TaskDotNet.csproj|solutionrelative:taskdotnet\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B37BA32-52BB-40F9-BDFA-5170D028868A}|TaskDotNet\\TaskDotNet.csproj|c:\\users\\anvi.verma\\desktop\\taskdotnet\\taskdotnet\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B37BA32-52BB-40F9-BDFA-5170D028868A}|TaskDotNet\\TaskDotNet.csproj|solutionrelative:taskdotnet\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B37BA32-52BB-40F9-BDFA-5170D028868A}|TaskDotNet\\TaskDotNet.csproj|c:\\users\\anvi.verma\\desktop\\taskdotnet\\taskdotnet\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B37BA32-52BB-40F9-BDFA-5170D028868A}|TaskDotNet\\TaskDotNet.csproj|solutionrelative:taskdotnet\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B37BA32-52BB-40F9-BDFA-5170D028868A}|TaskDotNet\\TaskDotNet.csproj|c:\\users\\anvi.verma\\desktop\\taskdotnet\\taskdotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B37BA32-52BB-40F9-BDFA-5170D028868A}|TaskDotNet\\TaskDotNet.csproj|solutionrelative:taskdotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/dotNetTask/True/SqlTable/dbo.AspNetRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/dotNetTask/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anvi.verma\\Desktop\\TaskDotNet\\TaskDotNet\\Migrations\\20250409063957_ApplicationRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskDotNet\\Migrations\\20250409063957_ApplicationRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B37BA32-52BB-40F9-BDFA-5170D028868A}|TaskDotNet\\TaskDotNet.csproj|c:\\users\\anvi.verma\\desktop\\taskdotnet\\taskdotnet\\entities\\identityentities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B37BA32-52BB-40F9-BDFA-5170D028868A}|TaskDotNet\\TaskDotNet.csproj|solutionrelative:taskdotnet\\entities\\identityentities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B37BA32-52BB-40F9-BDFA-5170D028868A}|TaskDotNet\\TaskDotNet.csproj|c:\\users\\anvi.verma\\desktop\\taskdotnet\\taskdotnet\\entities\\identityentities\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B37BA32-52BB-40F9-BDFA-5170D028868A}|TaskDotNet\\TaskDotNet.csproj|solutionrelative:taskdotnet\\entities\\identityentities\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B37BA32-52BB-40F9-BDFA-5170D028868A}|TaskDotNet\\TaskDotNet.csproj|c:\\users\\anvi.verma\\desktop\\taskdotnet\\taskdotnet\\services\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B37BA32-52BB-40F9-BDFA-5170D028868A}|TaskDotNet\\TaskDotNet.csproj|solutionrelative:taskdotnet\\services\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B37BA32-52BB-40F9-BDFA-5170D028868A}|TaskDotNet\\TaskDotNet.csproj|c:\\users\\anvi.verma\\desktop\\taskdotnet\\taskdotnet\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B37BA32-52BB-40F9-BDFA-5170D028868A}|TaskDotNet\\TaskDotNet.csproj|solutionrelative:taskdotnet\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B37BA32-52BB-40F9-BDFA-5170D028868A}|TaskDotNet\\TaskDotNet.csproj|c:\\users\\anvi.verma\\desktop\\taskdotnet\\taskdotnet\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B37BA32-52BB-40F9-BDFA-5170D028868A}|TaskDotNet\\TaskDotNet.csproj|solutionrelative:taskdotnet\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B37BA32-52BB-40F9-BDFA-5170D028868A}|TaskDotNet\\TaskDotNet.csproj|c:\\users\\anvi.verma\\desktop\\taskdotnet\\taskdotnet\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B37BA32-52BB-40F9-BDFA-5170D028868A}|TaskDotNet\\TaskDotNet.csproj|solutionrelative:taskdotnet\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B37BA32-52BB-40F9-BDFA-5170D028868A}|TaskDotNet\\TaskDotNet.csproj|c:\\users\\anvi.verma\\desktop\\taskdotnet\\taskdotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B37BA32-52BB-40F9-BDFA-5170D028868A}|TaskDotNet\\TaskDotNet.csproj|solutionrelative:taskdotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +68,195 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\anvi.verma\\Desktop\\TaskDotNet\\TaskDotNet\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "TaskDotNet\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\anvi.verma\\Desktop\\TaskDotNet\\TaskDotNet\\Models\\Login.cs",
+              "RelativeToolTip": "TaskDotNet\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:45:52.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\anvi.verma\\Desktop\\TaskDotNet\\TaskDotNet\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "TaskDotNet\\Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\anvi.verma\\Desktop\\TaskDotNet\\TaskDotNet\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "TaskDotNet\\Data\\DbSeeder.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:19:46.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anvi.verma\\Desktop\\TaskDotNet\\TaskDotNet\\Program.cs",
+              "RelativeDocumentMoniker": "TaskDotNet\\Program.cs",
+              "ToolTip": "C:\\Users\\anvi.verma\\Desktop\\TaskDotNet\\TaskDotNet\\Program.cs",
+              "RelativeToolTip": "TaskDotNet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:45:55.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\anvi.verma\\Desktop\\TaskDotNet\\TaskDotNet\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "TaskDotNet\\Models\\Response.cs",
+              "ToolTip": "C:\\Users\\anvi.verma\\Desktop\\TaskDotNet\\TaskDotNet\\Models\\Response.cs",
+              "RelativeToolTip": "TaskDotNet\\Models\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T04:36:56.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\anvi.verma\\Desktop\\TaskDotNet\\TaskDotNet\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TaskDotNet\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\anvi.verma\\Desktop\\TaskDotNet\\TaskDotNet\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TaskDotNet\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:14:17.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250409063957_ApplicationRole.cs",
+              "DocumentMoniker": "C:\\Users\\anvi.verma\\Desktop\\TaskDotNet\\TaskDotNet\\Migrations\\20250409063957_ApplicationRole.cs",
+              "RelativeDocumentMoniker": "TaskDotNet\\Migrations\\20250409063957_ApplicationRole.cs",
+              "ToolTip": "C:\\Users\\anvi.verma\\Desktop\\TaskDotNet\\TaskDotNet\\Migrations\\20250409063957_ApplicationRole.cs",
+              "RelativeToolTip": "TaskDotNet\\Migrations\\20250409063957_ApplicationRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:39:58.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/dotNetTask/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-09T06:41:35.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.AspNetRoles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/dotNetTask/True/SqlTable/dbo.AspNetRoles.sql",
+              "ToolTip": "dbo.AspNetRoles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-09T06:41:56.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "C:\\Users\\anvi.verma\\Desktop\\TaskDotNet\\TaskDotNet\\Entities\\IdentityEntities\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "TaskDotNet\\Entities\\IdentityEntities\\ApplicationRole.cs",
+              "ToolTip": "C:\\Users\\anvi.verma\\Desktop\\TaskDotNet\\TaskDotNet\\Entities\\IdentityEntities\\ApplicationRole.cs",
+              "RelativeToolTip": "TaskDotNet\\Entities\\IdentityEntities\\ApplicationRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:37:26.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\anvi.verma\\Desktop\\TaskDotNet\\TaskDotNet\\Entities\\IdentityEntities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "TaskDotNet\\Entities\\IdentityEntities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\anvi.verma\\Desktop\\TaskDotNet\\TaskDotNet\\Entities\\IdentityEntities\\ApplicationUser.cs",
+              "RelativeToolTip": "TaskDotNet\\Entities\\IdentityEntities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:33:25.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\anvi.verma\\Desktop\\TaskDotNet\\TaskDotNet\\DbContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TaskDotNet\\DbContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\anvi.verma\\Desktop\\TaskDotNet\\TaskDotNet\\DbContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TaskDotNet\\DbContext\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:42:20.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\anvi.verma\\Desktop\\TaskDotNet\\TaskDotNet\\Services\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "TaskDotNet\\Services\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\anvi.verma\\Desktop\\TaskDotNet\\TaskDotNet\\Services\\LoginDTO.cs",
+              "RelativeToolTip": "TaskDotNet\\Services\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:16:17.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\anvi.verma\\Desktop\\TaskDotNet\\TaskDotNet\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "TaskDotNet\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\anvi.verma\\Desktop\\TaskDotNet\\TaskDotNet\\Services\\JwtService.cs",
+              "RelativeToolTip": "TaskDotNet\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:56:41.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\anvi.verma\\Desktop\\TaskDotNet\\TaskDotNet\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "TaskDotNet\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "C:\\Users\\anvi.verma\\Desktop\\TaskDotNet\\TaskDotNet\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "TaskDotNet\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T04:53:20.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Response.cs",
-              "DocumentMoniker": "C:\\Users\\anvi.verma\\Desktop\\TaskDotNet\\TaskDotNet\\Models\\Response.cs",
-              "RelativeDocumentMoniker": "TaskDotNet\\Models\\Response.cs",
-              "ToolTip": "C:\\Users\\anvi.verma\\Desktop\\TaskDotNet\\TaskDotNet\\Models\\Response.cs",
-              "RelativeToolTip": "TaskDotNet\\Models\\Response.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T04:36:56.489Z",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\anvi.verma\\Desktop\\TaskDotNet\\TaskDotNet\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskDotNet\\appsettings.json",
+              "ToolTip": "C:\\Users\\anvi.verma\\Desktop\\TaskDotNet\\TaskDotNet\\appsettings.json",
+              "RelativeToolTip": "TaskDotNet\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T05:51:24.452Z",
               "EditorCaption": ""
             }
           ]
