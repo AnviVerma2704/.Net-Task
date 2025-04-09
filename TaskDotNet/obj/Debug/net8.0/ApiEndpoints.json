@@ -48,6 +48,16 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "TaskDotNet.Controllers.UserController",
+    "Method": "GetUsers",
+    "RelativePath": "get-users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "TaskDotNet.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
